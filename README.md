@@ -100,10 +100,17 @@ If you're using `cmd.exe`:
 git clone https://github.com/dam9000/kickstart-modular.nvim.git "%localappdata%\nvim"
 ```
 
+```
+git clone https://github.com/helloiamanders/kickstart-modular.nvim.git "%localappdata%\nvim"
+```
+
 If you're using `powershell.exe`
 
 ```
 git clone https://github.com/dam9000/kickstart-modular.nvim.git "${env:LOCALAPPDATA}\nvim"
+```
+```
+git clone https://github.com/helloiamanders/kickstart-modular.nvim.git "${env:LOCALAPPDATA}\nvim"
 ```
 
 </details>
